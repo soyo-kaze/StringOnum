@@ -8,7 +8,7 @@ Get unique number code equivalent to the string you provide. Length of this code
 
 Then...
 
-```
+```javascript
 import { enc } from 'stringonum';
 
 const theCode = enc("your_string_here") // the code gets stored into the theCode Variable.
