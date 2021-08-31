@@ -1,0 +1,16 @@
+{
+  "name": "stringonum",
+  "version": "1.0.0",
+  "description": "used to create num from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "to",
+    "num"
+  ],
+  "author": "sameer saini",
+  "license": "ISC"
+}
