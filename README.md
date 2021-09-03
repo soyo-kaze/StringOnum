@@ -1,4 +1,4 @@
-# What is this?
+# StringOnum ![npm](https://img.shields.io/npm/dt/stringonum) ![npm](https://img.shields.io/npm/v/stringonum)
 
 Get unique number code equivalent to the string you provide. Length of this code will be 3X of the string's length.
 
